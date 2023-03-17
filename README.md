@@ -1,5 +1,5 @@
-## Technologies I use
-          
+### Technologies I use
+
 <img align="left" alt="HTML" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Javascript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
@@ -20,10 +20,14 @@
 <br />
 <br />
 
-## Stats
+### Stats
 
 ![GitHub stats](https://github-readme-stats-henna-six-92.vercel.app/api?username=bunnythelifeguard&count_private=true&show_icons=true&hide=stars)
 
 ![Top Languages](https://github-readme-stats-henna-six-92.vercel.app/api/top-langs/?username=bunnythelifeguard)
+
+<br />
+
+### Recent Activity
 
 <!--START_SECTION:activity-->
