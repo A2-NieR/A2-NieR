@@ -26,8 +26,6 @@
 
 ![Top Languages](https://github-readme-stats-henna-six-92.vercel.app/api/top-langs/?username=bunnythelifeguard)
 
-<br />
-
 ### Recent activity
 
 <!--START_SECTION:activity-->
