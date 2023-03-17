@@ -25,3 +25,5 @@
 ![GitHub stats](https://github-readme-stats-henna-six-92.vercel.app/api?username=bunnythelifeguard&count_private=true&show_icons=true&hide=stars)
 
 ![Top Languages](https://github-readme-stats-henna-six-92.vercel.app/api/top-langs/?username=bunnythelifeguard)
+
+<!--START_SECTION:activity-->
