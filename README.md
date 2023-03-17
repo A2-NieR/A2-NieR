@@ -15,6 +15,7 @@
 <img align="left" alt="NodeJS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Svelte" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Vue" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="32px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;"  />
 <img align="left" alt="TailwindCSS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Go" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" style="padding-right:10px;" />
@@ -22,7 +23,6 @@
 <img align="left" alt="MongoDB" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Redis" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="GraphQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="PWA" width="32px" src="https://api.iconify.design/logos/pwa.svg?download=1&width=42&height=42" style="padding-right:10px;" />
 
 
