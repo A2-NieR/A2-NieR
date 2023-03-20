@@ -6,7 +6,7 @@
 - 💽 Prefers Go for Backend
 - 🔜 Learning Rust while trying to maintain Go Knowledge
 
-### Technologies I use
+## Technologies I use
 
 <img align="left" alt="HTML" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="padding-right:10px;" />
@@ -29,13 +29,13 @@
 <br />
 <br />
 
-### Stats
+## Stats
 
 ![GitHub stats](https://github-readme-stats-henna-six-92.vercel.app/api?username=bunnythelifeguard&count_private=true&show_icons=true&hide=stars)
 
 ![Top Languages](https://github-readme-stats-henna-six-92.vercel.app/api/top-langs/?username=bunnythelifeguard)
 
-### Recent activity
+## Recent activity
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6189](https://github.com/helix-editor/helix/issues/6189) in [helix-editor/helix](https://github.com/helix-editor/helix)
@@ -44,3 +44,9 @@
 4. 💪 Opened PR [#9](https://github.com/BunnyTheLifeguard/531/pull/9) in [BunnyTheLifeguard/531](https://github.com/BunnyTheLifeguard/531)
 5. 🗣 Commented on [#353](https://github.com/vite-pwa/vite-plugin-pwa/issues/353) in [vite-pwa/vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa)
 <!--END_SECTION:activity-->
+
+## Contributions
+
+- [DiscordGo](https://github.com/bwmarrin/discordgo/pull/1262)
+- [Go-Chi](https://github.com/go-chi/docs/pull/5)
+- [Denon](https://github.com/denosaurs/denon/pull/96)
