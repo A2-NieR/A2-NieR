@@ -39,6 +39,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 - 🔱 Forked [BunnyTheLifeguard/recent-activity](https://github.com/BunnyTheLifeguard/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+- ⭐ Starred [ciscoheat/sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms)<br>
+- ⭐ Starred [0atman/noboilerplate](https://github.com/0atman/noboilerplate)<br>
+- ⭐ Starred [wasmerio/wasmer](https://github.com/wasmerio/wasmer)<br>
+- 🏗 Created new repository [BunnyTheLifeguard/rdo-discord-bot](https://github.com/BunnyTheLifeguard/rdo-discord-bot)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Contributions
