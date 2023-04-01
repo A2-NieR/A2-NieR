@@ -37,13 +37,7 @@
 
 ## Recent activity
 
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#271](https://github.com/Readme-Workflows/recent-activity/issues/271) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ❗️ Opened issue [#271](https://github.com/Readme-Workflows/recent-activity/issues/271) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. 🎉 Merged PR [#11](https://github.com/BunnyTheLifeguard/531/pull/11) in [BunnyTheLifeguard/531](https://github.com/BunnyTheLifeguard/531)
-4. 💪 Opened PR [#11](https://github.com/BunnyTheLifeguard/531/pull/11) in [BunnyTheLifeguard/531](https://github.com/BunnyTheLifeguard/531)
-5. 🎉 Merged PR [#10](https://github.com/BunnyTheLifeguard/531/pull/10) in [BunnyTheLifeguard/531](https://github.com/BunnyTheLifeguard/531)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
 ## Contributions
 
