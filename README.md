@@ -38,11 +38,11 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-- ⬆️ Pushed 2 commit(s) to [BunnyTheLifeguard/BunnyTheLifeguard](https://github.com/BunnyTheLifeguard/BunnyTheLifeguard)<br>
-- ⬆️ Pushed 1 commit(s) to [BunnyTheLifeguard/BunnyTheLifeguard](https://github.com/BunnyTheLifeguard/BunnyTheLifeguard)<br>
-- ⬆️ Pushed 1 commit(s) to [BunnyTheLifeguard/BunnyTheLifeguard](https://github.com/BunnyTheLifeguard/BunnyTheLifeguard)<br>
-- ⬆️ Pushed 1 commit(s) to [BunnyTheLifeguard/BunnyTheLifeguard](https://github.com/BunnyTheLifeguard/BunnyTheLifeguard)<br>
-- ⬆️ Pushed 1 commit(s) to [BunnyTheLifeguard/BunnyTheLifeguard](https://github.com/BunnyTheLifeguard/BunnyTheLifeguard)<br>
+- ✔️ Closed issue [#271](https://github.com/Readme-Workflows/recent-activity/issues/271) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+- 🚧 Opened issue [#271](https://github.com/Readme-Workflows/recent-activity/issues/271) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+- ⭐ Starred [ciscoheat/sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms)<br>
+- 🌌 Merged PR [#11](https://github.com/BunnyTheLifeguard/531/pull/11) in [BunnyTheLifeguard/531](https://github.com/BunnyTheLifeguard/531)<br>
+- ↪ Opened PR [#11](https://github.com/BunnyTheLifeguard/531/pull/11) in [BunnyTheLifeguard/531](https://github.com/BunnyTheLifeguard/531)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Contributions
