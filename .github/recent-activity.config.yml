@@ -9,6 +9,7 @@ settings:
   line_prefix: "- "
   disabled_events:
     - push
+    - pr_close
 messages:
   comments: "💬 Commented on {ID} in {REPO}"
   push: "⬆️ Pushed {AMOUNT} commit(s) to {REPO}"
