@@ -9,8 +9,12 @@ settings:
   line_prefix: "- "
   disabled_events:
     - issues_close
-    - push
     - pr_close
+    - push
+  whitelisted_events:
+    - issues_open
+    - pr_open
+    - pr_merge
 messages:
   comments: "💬 Commented on {ID} in {REPO}"
   push: "⬆️ Pushed {AMOUNT} commit(s) to {REPO}"
