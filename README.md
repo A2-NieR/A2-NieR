@@ -38,11 +38,11 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
+- 🔱 Forked [BunnyTheLifeguard/vscode-gitlens](https://github.com/BunnyTheLifeguard/vscode-gitlens) from [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens)<br>
+- 💬 Commented on [#272](https://github.com/Readme-Workflows/recent-activity/pull/272#issuecomment-1509847534) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
 - 💬 Commented on [#272](https://github.com/Readme-Workflows/recent-activity/pull/272#discussion_r1162353771) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
 - 💬 Commented on [#272](https://github.com/Readme-Workflows/recent-activity/pull/272#issuecomment-1493948688) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
 - ↪ Opened PR [#272](https://github.com/Readme-Workflows/recent-activity/pull/272) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-- 🔱 Forked [BunnyTheLifeguard/recent-activity](https://github.com/BunnyTheLifeguard/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-- 🚧 Opened issue [#271](https://github.com/Readme-Workflows/recent-activity/issues/271) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Contributions
