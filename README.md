@@ -4,7 +4,7 @@
 - 👨‍🎓 Graduated in Business Administration
 - 📱 Prefers SvelteKit for Frontend
 - 💽 Prefers Go for Backend
-- 🔜 Learning ~~Rust~~ that Crab language while trying to maintain my Go Knowledge
+- 🔜 Learning ~~Rust~~ that Crab language while trying to maintain Go Knowledge
 
 ## Technologies I use
 
@@ -50,3 +50,4 @@
 - [DiscordGo](https://github.com/bwmarrin/discordgo/pull/1262)
 - [Go-Chi](https://github.com/go-chi/docs/pull/5)
 - [Denon](https://github.com/denosaurs/denon/pull/96)
+- [Recent Activity](https://github.com/Readme-Workflows/recent-activity/pull/272)
