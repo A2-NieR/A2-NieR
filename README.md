@@ -31,9 +31,9 @@
 
 ## Stats
 
-![GitHub stats](https://github-readme-stats-henna-six-92.vercel.app/api?username=bunnythelifeguard&count_private=true&show_icons=true&hide=stars)
+![GitHub stats](https://github-readme-stats-henna-six-92.vercel.app/api?username=bunnythelifeguard&count_private=true&show_icons=true&hide=stars&PAT_1)
 
-![Top Languages](https://github-readme-stats-henna-six-92.vercel.app/api/top-langs/?username=bunnythelifeguard)
+![Top Languages](https://github-readme-stats-henna-six-92.vercel.app/api/top-langs/?username=bunnythelifeguard&PAT_1)
 
 ## Recent activity
 
