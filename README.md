@@ -40,8 +40,6 @@
 <!--RECENT_ACTIVITY:start-->
 - 💬 Commented on [#272](https://github.com/Readme-Workflows/recent-activity/pull/272#issuecomment-1520390712) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
 - ↪ Opened PR [#2640](https://github.com/gitkraken/vscode-gitlens/pull/2640) in [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens)<br>
-- 🔱 Forked [BunnyTheLifeguard/vscode-gitlens](https://github.com/BunnyTheLifeguard/vscode-gitlens) from [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens)<br>
-- 💬 Commented on [#272](https://github.com/Readme-Workflows/recent-activity/pull/272#issuecomment-1509847534) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Contributions
