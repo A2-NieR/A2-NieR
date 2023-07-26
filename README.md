@@ -39,7 +39,6 @@
 
 <!--RECENT_ACTIVITY:start-->
 - ↪ Opened PR [#12](https://github.com/BunnyTheLifeguard/531/pull/12) in [BunnyTheLifeguard/531](https://github.com/BunnyTheLifeguard/531)<br>
-- 💬 Commented on [#272](https://github.com/Readme-Workflows/recent-activity/pull/272#issuecomment-1520390712) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Contributions
