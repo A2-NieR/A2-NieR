@@ -4,7 +4,6 @@
 - 👨‍🎓 Graduated in Business Administration
 - 📱 Prefers SvelteKit for Frontend
 - 💽 Prefers Go for Backend
-- 🔜 Learning ~~Rust~~ that Crab language while trying to maintain my Go Knowledge
 
 ## Technologies I use
 
@@ -19,7 +18,6 @@
 <img align="left" alt="TailwindCSS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:6px;" />
 <img align="left" alt="Go" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Crab language" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg" style="padding-right:4px;" />
 <img align="left" alt="MongoDB" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:6px;" />
 <img align="left" alt="Redis" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" style="padding-right:10px;" />
