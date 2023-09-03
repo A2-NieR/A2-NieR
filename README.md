@@ -29,18 +29,16 @@
 
 ## Stats
 
-![GitHub stats](https://github-readme-stats-henna-six-92.vercel.app/api?username=bunnythelifeguard&count_private=true&show_icons=true&hide=stars)
+![GitHub stats](https://github-readme-stats-henna-six-92.vercel.app/api?username=bunnythelifeguard&count_private=true&show_icons=true&hide=stars&PAT_1)
 
-![Top Languages](https://github-readme-stats-henna-six-92.vercel.app/api/top-langs/?username=bunnythelifeguard)
+![Top Languages](https://github-readme-stats-henna-six-92.vercel.app/api/top-langs/?username=bunnythelifeguard&PAT_1)
 
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-- ↪ Opened PR [#2640](https://github.com/gitkraken/vscode-gitlens/pull/2640) in [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens)<br>
-- 🔱 Forked [BunnyTheLifeguard/vscode-gitlens](https://github.com/BunnyTheLifeguard/vscode-gitlens) from [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens)<br>
-- 💬 Commented on [#272](https://github.com/Readme-Workflows/recent-activity/pull/272#issuecomment-1509847534) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-- 💬 Commented on [#272](https://github.com/Readme-Workflows/recent-activity/pull/272#discussion_r1162353771) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-- 💬 Commented on [#272](https://github.com/Readme-Workflows/recent-activity/pull/272#issuecomment-1493948688) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+- ↪ Opened PR [#14](https://github.com/BunnyTheLifeguard/531/pull/14) in [BunnyTheLifeguard/531](https://github.com/BunnyTheLifeguard/531)<br>
+- ↪ Opened PR [#13](https://github.com/BunnyTheLifeguard/531/pull/13) in [BunnyTheLifeguard/531](https://github.com/BunnyTheLifeguard/531)<br>
+- ↪ Opened PR [#12](https://github.com/BunnyTheLifeguard/531/pull/12) in [BunnyTheLifeguard/531](https://github.com/BunnyTheLifeguard/531)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Contributions
@@ -48,3 +46,4 @@
 - [DiscordGo](https://github.com/bwmarrin/discordgo/pull/1262)
 - [Go-Chi](https://github.com/go-chi/docs/pull/5)
 - [Denon](https://github.com/denosaurs/denon/pull/96)
+- [Recent Activity](https://github.com/Readme-Workflows/recent-activity/pull/272)
