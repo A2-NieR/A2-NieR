@@ -29,16 +29,13 @@
 
 ## Stats
 
-![GitHub stats](https://github-readme-stats-henna-six-92.vercel.app/api?username=bunnythelifeguard&count_private=true&show_icons=true&hide=stars&PAT_1)
+![GitHub stats](https://github-readme-stats-henna-six-92.vercel.app/api?username=lynx-landau&count_private=true&show_icons=true&hide=stars&PAT_1)
 
-![Top Languages](https://github-readme-stats-henna-six-92.vercel.app/api/top-langs/?username=bunnythelifeguard&PAT_1)
+![Top Languages](https://github-readme-stats-henna-six-92.vercel.app/api/top-langs/?username=lynx-landau&PAT_1)
 
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-- ↪ Opened PR [#14](https://github.com/BunnyTheLifeguard/531/pull/14) in [BunnyTheLifeguard/531](https://github.com/BunnyTheLifeguard/531)<br>
-- ↪ Opened PR [#13](https://github.com/BunnyTheLifeguard/531/pull/13) in [BunnyTheLifeguard/531](https://github.com/BunnyTheLifeguard/531)<br>
-- ↪ Opened PR [#12](https://github.com/BunnyTheLifeguard/531/pull/12) in [BunnyTheLifeguard/531](https://github.com/BunnyTheLifeguard/531)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Contributions
