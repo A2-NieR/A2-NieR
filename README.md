@@ -36,6 +36,9 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
+- ↪ Opened PR [#14](https://github.com/BunnyTheLifeguard/531/pull/14) in [BunnyTheLifeguard/531](https://github.com/BunnyTheLifeguard/531)<br>
+- ↪ Opened PR [#13](https://github.com/BunnyTheLifeguard/531/pull/13) in [BunnyTheLifeguard/531](https://github.com/BunnyTheLifeguard/531)<br>
+- ↪ Opened PR [#12](https://github.com/BunnyTheLifeguard/531/pull/12) in [BunnyTheLifeguard/531](https://github.com/BunnyTheLifeguard/531)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Contributions
