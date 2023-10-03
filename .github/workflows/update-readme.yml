@@ -15,6 +15,6 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Add recent activities
-        uses: BunnyTheLifeguard/recent-activity@feat/split-pr-events
+        uses: Lynx-Landau/recent-activity@feat/split-pr-events
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
