@@ -29,9 +29,9 @@
 
 ## Stats
 
-![GitHub stats](https://github-readme-stats-henna-six-92.vercel.app/api?username=lynx-landau&count_private=true&show_icons=true&hide=stars&PAT_1)
+![GitHub stats](https://github-readme-stats-henna-six-92.vercel.app/api?username=a2-nier&count_private=true&show_icons=true&hide=stars&PAT_1)
 
-![Top Languages](https://github-readme-stats-henna-six-92.vercel.app/api/top-langs/?username=lynx-landau&PAT_1)
+![Top Languages](https://github-readme-stats-henna-six-92.vercel.app/api/top-langs/?username=a2-nier&PAT_1)
 
 ## Recent activity
 
