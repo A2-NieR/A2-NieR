@@ -12,9 +12,9 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v2.3.4
 
       - name: Add recent activities
-        uses: A2-NieR/recent-activity@feat/split-pr-events
+        uses: Readme-Workflows/recent-activity@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
