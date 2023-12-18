@@ -36,6 +36,7 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
+- 🏗 Created new repository [A2-NieR/portfolio](https://github.com/A2-NieR/portfolio)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Contributions
