@@ -38,7 +38,6 @@
 <!--RECENT_ACTIVITY:start-->
 - ⭐ Starred [ar51an/raspberrypi-motd](https://github.com/ar51an/raspberrypi-motd)<br>
 - ⭐ Starred [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>
-- 🏗 Created new repository [A2-NieR/portfolio](https://github.com/A2-NieR/portfolio)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Contributions
