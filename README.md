@@ -37,7 +37,6 @@
 
 <!--RECENT_ACTIVITY:start-->
 - ⭐ Starred [ar51an/raspberrypi-motd](https://github.com/ar51an/raspberrypi-motd)<br>
-- ⭐ Starred [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Contributions
