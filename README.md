@@ -36,7 +36,6 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-- ⭐ Starred [ar51an/raspberrypi-motd](https://github.com/ar51an/raspberrypi-motd)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Contributions
