@@ -8,8 +8,8 @@ settings:
   commit_email: '41898282+github-actions[bot]@users.noreply.github.com'
   line_prefix: '- '
   disabled_events:
-    - issues_close
-    - pr_close
+    - issues_closed
+    - pr_closed
     - push
 messages:
   comments: '💬 Commented on {ID} in {REPO}'
