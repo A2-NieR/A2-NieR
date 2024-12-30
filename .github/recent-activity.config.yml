@@ -11,6 +11,7 @@ settings:
     - issues_closed
     - pr_closed
     - push
+    - create_repo
 messages:
   comments: '💬 Commented on {ID} in {REPO}'
   push: '⬆️ Pushed {AMOUNT} commit(s) to {REPO}'
