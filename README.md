@@ -9,7 +9,7 @@
 
 HTML <img align="left" alt="HTML" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="padding-right:10px;" />
 
-CSS <img align="left" alt="CSS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS" width="32px" src="https://api.iconify.design/vscode-icons:file-type-css.svg" style="padding-right:10px;" /><br />
 
 JavaScript <img align="left" alt="Javascript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
