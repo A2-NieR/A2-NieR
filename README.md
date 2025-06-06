@@ -48,11 +48,12 @@ Progressive Web Apps <img align="left" alt="PWA" width="32px" src="https://api.i
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [upstash/context7](https://github.com/upstash/context7)<br>
 - 💬 Commented on [#2181](https://github.com/pocketbase/pocketbase/issues/2181#issuecomment-2925541334) in [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 5th, 2025, 1:54:05 AM
+Last Updated: Friday, June 6th, 2025, 1:53:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Contributions
