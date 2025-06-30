@@ -48,12 +48,13 @@ Progressive Web Apps <img align="left" alt="PWA" width="32px" src="https://api.i
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [coollabsio/coolify](https://github.com/coollabsio/coolify)<br>
 - ⭐ Starred [upstash/context7](https://github.com/upstash/context7)<br>
 - 💬 Commented on [#2181](https://github.com/pocketbase/pocketbase/issues/2181#issuecomment-2925541334) in [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 29th, 2025, 2:07:07 AM
+Last Updated: Monday, June 30th, 2025, 2:02:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Contributions
