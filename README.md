@@ -49,11 +49,10 @@ Progressive Web Apps <img align="left" alt="PWA" width="32px" src="https://api.i
 
 <!--RECENT_ACTIVITY:start-->
 - ⭐ Starred [coollabsio/coolify](https://github.com/coollabsio/coolify)<br>
-- ⭐ Starred [upstash/context7](https://github.com/upstash/context7)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 5th, 2025, 1:52:40 AM
+Last Updated: Sunday, July 6th, 2025, 2:05:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Contributions
